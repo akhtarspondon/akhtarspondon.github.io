@@ -1,0 +1,44 @@
+ 
+ html{
+
+  background: url(../images/DS-42-30-11-2015.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Helverica Neve", sans-serif;
+}
+
+.prof_box{
+	text-align: center;
+	width: 400px;
+	height: 450px;
+	background: rgba(0,0,0,0.5);
+	padding: 40px;
+	color: white;
+	margin: 1 auto;
+	margin-top: 170px;
+}
+.prof_pic{
+
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+p{
+	font-weight: 100;
+	color: yellow;
+
+}
+.social-icons{
+	font-size: 20;
+}
+.social-icons a{
+
+	color: white;
+}
+.line-break{
+	width: 350px;
+	border-top: 2px solid white;
+	margin:0 auto;
+}
